@@ -10,9 +10,12 @@
 ![image](https://github.com/user-attachments/assets/c4169684-ec24-4547-8c71-074332b33376)
 
 ## Histogram:
+### a) frequency and Newspaper:
 ![image](https://github.com/user-attachments/assets/db23f3b8-e45b-4cf1-bdd1-73d88fd36bc7)
-## frequency and tv :
+### b) frequency and tv :
 ![image](https://github.com/user-attachments/assets/c298457e-77ce-4fb3-9324-173568417b56)
+### c) frequency and radio : 
+![image](https://github.com/user-attachments/assets/5f904ef6-014a-4cf5-8614-1046e7ce7fc2)
 
 
 ## Comparing pairplot:
