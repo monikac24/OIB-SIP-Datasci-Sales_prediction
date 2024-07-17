@@ -11,6 +11,9 @@
 
 ## Histogram:
 ![image](https://github.com/user-attachments/assets/db23f3b8-e45b-4cf1-bdd1-73d88fd36bc7)
+## frequency and tv :
+![image](https://github.com/user-attachments/assets/c298457e-77ce-4fb3-9324-173568417b56)
+
 
 ## Comparing pairplot:
 ![image](https://github.com/user-attachments/assets/801ead7f-dcad-411d-9462-84212539db6d)
