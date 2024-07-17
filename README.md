@@ -6,19 +6,17 @@
 
 ## Overview of the Project 
 ### Project : Sales Prediction using Python
-## :Heatmap
+## Heatmap :
 ![image](https://github.com/user-attachments/assets/c4169684-ec24-4547-8c71-074332b33376)
 
-
-##Histogran:
+## Histogran:
 ![image](https://github.com/user-attachments/assets/db23f3b8-e45b-4cf1-bdd1-73d88fd36bc7)
 
 ## Comparing pairplot:
 ![image](https://github.com/user-attachments/assets/801ead7f-dcad-411d-9462-84212539db6d)
 
-
 ### Dataset:
-
+[dataset_link](https://github.com/monikac24/OIB-SIP-Datasci-Sales_prediction/blob/main/Advertising.csv)
 
 ### Objective : 
 The objective of this analysis is to determine how different advertising mediums (TV, Radio, Newspaper) affect sales. The goal is to build a simple linear regression model to predict sales based on TV advertising spend.
